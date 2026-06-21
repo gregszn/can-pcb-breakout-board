@@ -46,7 +46,6 @@ The system consists of a microcontroller connected to a CAN transceiver, enablin
 
 ## Images
 
-(Add photos of your PCB, setup, or test environment here)
 
 ## Future Improvements
 
